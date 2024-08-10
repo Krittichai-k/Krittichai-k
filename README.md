@@ -1,8 +1,8 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Krittichai Kerdmunglek
 ==============================================================================================================================================
 
-Student
--------
+I am a student of Rajamangala University of Technology Srivijaya.
+-----------------------------------------------------------------
 
 * 🌍  I'm based in Thung Song ,Nakhon Si Thammarat
 * ✉️  You can contact me at [krittichai.ko@gmail.com](mailto:krittichai.ko@gmail.com)
